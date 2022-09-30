@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA testing
 - 🌱 I’m currently learning automated test suites
 - 💞️ I’m looking to collaborate on projects involving new testing techniques
-- 📫 How to reach me 
+
 
 <!---
 annamar90/annamar90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
