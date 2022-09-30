@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annamar90
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on projects involving React
+- 👀 I’m interested in QA testing
+- 🌱 I’m currently learning automated test suites
+- 💞️ I’m looking to collaborate on projects involving new testing techniques
 - 📫 How to reach me 
 
 <!---
