@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annamar90
 - 👀 I’m interested in QA testing, DevOps and Security
-- 🌱 I’m currently learning about automated test suites, Grafana dashboards, technical analyses.
+- 🌱 I’m currently learning about automated test suites, Grafana dashboards, SonarQube and technical analyses.
 - 💞️ I’m looking to collaborate on projects involving new testing techniques
 
 
